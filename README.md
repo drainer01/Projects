@@ -13,13 +13,12 @@ I am Dru Rainer, a senior computer science student at Spring Hill College with a
 - Description: Completed an individual project while working with an active research team at my internship with the Software Engineering Institute at Carnegie Mellon. I was focused on porting SONiC network operating system to a previously unsupported platform through rigorous hands-on testing. I cannot disclose specifics or show code due to an NDA but I will disclose some of the accomplishments from the project. Devised a methodology for conducting research incrementally. Reverse engineered multiple configuration modules in C, Python, Kernel. Developed hardware utility modules. Implemented Sonic Platform for unsupported hardware. Constructed plugin files to enable expected outputs. Resolved compatibility issues through rigorous testing and troubleshooting. Enhanced interface functionality with build machine. Prepared and presented weekly technical briefs. Maintained transparent roadmap and progress updates with team leadership.
 - Technologies Used: SONiC, Linux, Debian, Docker, Git, 
 
-### Project 2: [Project Name]
+### Project 2: Arduino Computer Vision 
 
-- Description: [Brief description of the project]
-- Technologies Used: [List of technologies/tools/libraries used]
-- Repository Link: [Link to the project folder in this repository]
-- Live Demo (if available): [Link to live demo, if applicable]
+- Description: Computer vision project using Arduino Uno and an OV7670 camera module. The project aims to demonstrate basic image processing tasks on Arduino, such as edge detection and object tracking. 
 
+- Technologies Used: Arduino Uno, OV7670 camera module
+- Source Code Link: ArduinoVision.cpp
 
 ## Getting Started
 
